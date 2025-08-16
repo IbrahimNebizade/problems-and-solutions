@@ -1,8 +1,6 @@
-package com.company.leetcode.easy;
+package com.company.leetcode.easy.math;
 
 public class Palindrome {
-
-
     public static boolean isPalindrome(int number) {
         int reverse = 0;
         int straight = number;

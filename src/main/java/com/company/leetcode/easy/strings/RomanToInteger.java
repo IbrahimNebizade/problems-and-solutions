@@ -1,4 +1,4 @@
-package com.company.leetcode.easy;
+package com.company.leetcode.easy.strings;
 
 public class RomanToInteger {
 

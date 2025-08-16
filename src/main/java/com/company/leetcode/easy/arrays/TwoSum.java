@@ -1,4 +1,4 @@
-package com.company.leetcode.easy;
+package com.company.leetcode.easy.arrays;
 public class TwoSum {
     public static int[] withArray(int[] nums, int target) {
         boolean found = false;
